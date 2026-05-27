@@ -51,6 +51,6 @@ When I'm away from the keyboard, I'm usually tuning into League of Legends espor
 *(Note: To activate these stats, just commit this file! They update automatically.)*
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kimsoeurn&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsoeurn&layout=compact&theme=radical&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Kimsoeurn&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsoeurn&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
