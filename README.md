@@ -49,7 +49,3 @@ When I'm away from the keyboard, I'm usually tuning into League of Legends espor
 ### 📊 GitHub Stats
 
 *(Note: To activate these stats, just commit this file! They update automatically.)*
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Kimsoeurn&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
